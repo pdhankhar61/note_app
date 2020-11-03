@@ -9,7 +9,3 @@ This is note keeping app developed with flutter and supported with SQLite Databa
 ![4](https://github.com/pdhankhar61/note_app/blob/main/note_app_4.jpg)
 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-
